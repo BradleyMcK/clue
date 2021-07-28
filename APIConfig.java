@@ -5,15 +5,8 @@ import java.io.IOException;
 /**
  * This class contains static configuration settings
  */
-public class APIConfig {
-    public static final int API_VERSION = 2;
-    public static final String API_BASEPATH = "/api/v"+API_VERSION+"/";
-    public static final int DEFAULT_PAGINATION_LIMIT = 50;
-    public static final int DEFAULT_PAGINATION_LIMIT_MAX = 500;
-
-
-
-
+public class Clue {
+    
     public static void main(String[] args) {
 
 
